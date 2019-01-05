@@ -1,0 +1,65 @@
+@media (max-width: 980px) {
+  #top_header .top_header_row .top_header_col1 {
+    width: 100%;
+    text-align: center;
+    margin: 0px; }
+    #top_header .top_header_row .top_header_col1 .et_pb_text_inner {
+      text-align: center; }
+  #top_header .top_header_row .top_header_col2 {
+    display: none; }
+
+  #main-header {
+    position: fixed !important; }
+
+  #content_slider_primary {
+    padding: 0px !important; }
+    #content_slider_primary .row_slide .col1-slide .et_pb_text_inner {
+      margin-top: -36px; }
+    #content_slider_primary .row_slide .col1-slide h5 {
+      font-size: 24px !important;
+      margin-top: -10px; }
+    #content_slider_primary .row_slide .col1-slide h1 {
+      font-size: 60px !important;
+      padding-bottom: 0px;
+      margin-top: -17px; }
+    #content_slider_primary .row_slide .col2-slide {
+      position: relative; }
+      #content_slider_primary .row_slide .col2-slide .title_right {
+        position: absolute;
+        right: 0;
+        top: -243px; }
+        #content_slider_primary .row_slide .col2-slide .title_right h3 {
+          font-family: 'Amatic SC', cursive;
+          font-size: 24px;
+          display: inline;
+          z-index: 100 !important;
+          position: relative;
+          top: 70px;
+          right: 38px; }
+        #content_slider_primary .row_slide .col2-slide .title_right p a.se_button {
+          background-position: center top;
+          background-size: 150px auto;
+          font-size: 13px;
+          font-weight: bold;
+          font-style: inherit;
+          margin: 0px 0px 4px;
+          min-height: 58px;
+          min-width: 194px;
+          padding: 8px 10px;
+          text-align: center;
+          text-decoration: none;
+          position: absolute;
+          z-index: 3;
+          top: 132px;
+          right: -24px; }
+      #content_slider_primary .row_slide .col2-slide .images_lg_bg {
+        top: -247px;
+        right: -6%; }
+        #content_slider_primary .row_slide .col2-slide .images_lg_bg img {
+          width: 200px;
+          height: 165px;
+          object-fit: cover;
+          right: 23px;
+          top: 34px; } }
+
+/*# sourceMappingURL=media_screen.css.map */
